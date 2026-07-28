@@ -1,0 +1,1741 @@
+[
+  {
+    "type": "grammar",
+    "title": "词类（Parts of Speech）",
+    "content": "英语中的词根据构成形式分为常规词类和特殊词类。常规词类包括名词、动词、形容词、副词、代词、数词、冠词、介词、连词和感叹词，分为实词和虚词。特殊词类包括短语动词、短语介词和短语连词，以短语形式出现，用法分别与常规的动词、介词和连词相同。",
+    "examples": [
+      "Artificial intelligence 人工智能 — 名词短语",
+      "make a profit 获利 — 动词短语",
+      "so successful 如此成功 — 形容词短语"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "短语分类（Phrase Types）",
+    "content": "英语中的短语按照词性分为名词短语、动词短语、形容词短语、副词短语、介词短语、不定式短语、动名词短语和分词短语。短语按照一定的语法规则构成，具有一定意义但尚未构成句子，可以在句中作成分。",
+    "examples": [
+      "short-term memory 短期记忆 — 名词短语",
+      "shoulder the responsibility 承担责任 — 动词短语",
+      "to get to work 去上班 — 不定式短语",
+      "fostering problem-solving skills 培养解决问题的能力 — 动名词短语"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——主语（Subject）",
+    "content": "主语是句子陈述的对象或执行动作的主体，由具有名词性质的词、短语或句子充当，包括名词(短语)、动词不定式(短语)、动名词(短语)、代词、数词、介词短语和句子。当动词不定式、动名词或从句作主语时，常用it作形式主语，将真正的主语后置。",
+    "examples": [
+      "Science has a cultural history, too. 科学也有文化史。",
+      "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose. 从共性中筛除个性，这会使我们得以理解复杂的文化行为是如何产生的。",
+      "It is true that CEO pay has gone up. CEO的薪资确实上涨了。（It为形式主语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——谓语（Predicate）",
+    "content": "谓语对主语动作或状态进行陈述或说明，分为简单谓语和复合谓语。简单谓语由单个动词或短语动词充当；复合谓语包括'情态动词/助动词+动词原形'、'半助动词+不带to的不定式'和'系动词+表语'。助动词do/does/did+动词原形表强调，do/does/did+not+动词原形表否定。",
+    "examples": [
+      "The court threw out the FCC's attempt. 法院驳回了FCC的请求。（简单谓语）",
+      "This can mean millions more in revenue. 这可能意味着数百万乃至更多的收入。（情态动词+动词原形）",
+      "The court did suggest that accepting favors is distasteful. 法院的确指出收受好处令人不快。（强调）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——宾语（Object）",
+    "content": "宾语表示动作、行为的对象或承受者，分为动词宾语和介词宾语。宾语类型包括单宾语、双宾语（间接宾语+直接宾语）和复合宾语（宾语+宾语补足语）。宾语由名词(短语)、动词不定式(短语)、动名词(短语)、代词、数词和句子充当。",
+    "examples": [
+      "How do we explain this trend? 我们该如何解释这一倾向呢？（单宾语）",
+      "These upstart entrepreneurs cannot buy their prizes the prestige of the Nobels. 这些企业新贵们不能为他们所设立的奖项买到诺贝尔奖那样的声望。（双宾语）",
+      "Listening through earphones encourages kids to stay inside their bubble. 长时间戴耳机听歌会导致孩子沉浸于自己的幻想中。（复合宾语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——表语（Predicative）",
+    "content": "表语用来说明主语的身份、特征、性质或状态，常位于系动词后，与系动词一起构成复合谓语。表语由名词(短语)、动词不定式(短语)、动名词(短语)、分词(短语)、形容词(短语)、副词(短语)、代词、数词、介词短语和句子充当。",
+    "examples": [
+      "The student culture becomes the chief socializing force. 学生文化成为研究生新生社会化过程中的主要力量。",
+      "The goal may be to be taken more seriously. 其目标可能是更受重视。",
+      "The mystery is that this should come as a surprise to any boss. 令人费解的是，这竟令所有老板大吃一惊。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——补语（Complement）",
+    "content": "补语分为宾语补足语和主语补足语。宾语补足语补充说明宾语的行为、状态、特征、身份等，与宾语共同构成复合宾语；主语补足语对主语进行补充说明，通常出现在被动句中。补语由名词(短语)、不定式(短语)、分词(短语)、形容词(短语)、介词短语等充当。",
+    "examples": [
+      "You'll have to make social media an occasional activity. 你必须得让使用社交媒体成为一种偶尔的活动。（宾语补足语）",
+      "One company that's doing this is called Blendoor. 一家名为Blendoor的公司正在这样做。（主语补足语）",
+      "Each subject was then invited to look inside. 接着邀请每个实验对象往里面看。（主语补足语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——定语（Attributive）",
+    "content": "定语用于修饰、限定、说明名词或代词的品质或特征，分为前置定语和后置定语。前置定语置于被修饰词之前，由名词、形容词、分词、代词、数词充当；后置定语置于被修饰词之后，由不定式(短语)、分词(短语)、形容词(短语)、副词(短语)、介词短语和定语从句充当。",
+    "examples": [
+      "All good targets should have multiple criteria. 所有好的目标都应该有多个标准。（前置定语）",
+      "Energy companies can use AI to help customers reduce their electricity bills. 能源公司可以使用人工智能来帮助客户减少电费。（名词作定语）",
+      "I have reasons to think that won't work. 我有理由认为这行不通。（不定式作后置定语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——状语（Adverbial）",
+    "content": "状语用于修饰动词、形容词、副词或句子，说明时间、地点、范围、原因、目的、结果、方式、条件、程度、状态或表示让步、比较、伴随等。状语由名词(短语)、动词不定式(短语)、分词(短语)、形容词(短语)、副词(短语)、介词短语及状语从句充当。",
+    "examples": [
+      "Until this century, university libraries were not very price sensitive. 本世纪之前，大学图书馆对价格还不是很敏感。（时间状语）",
+      "The team employed robotics to survey the site. 该团队使用了机器人技术对该遗址进行勘测。（目的状语）",
+      "You and your children will benefit, feeling better physically and emotionally. 你和你的孩子都会获益，身心状态都会更好。（伴随状语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子成分——同位语（Appositive）",
+    "content": "同位语对名词或代词进行解释或补充说明，一般位于名词或代词之后，可用逗号隔开。名词(短语)、代词、动名词(短语)、数词以及同位语从句均可充当同位语。",
+    "examples": [
+      "Jeremy Wright, the culture secretary, should welcome this positive proposal. 文化大臣杰里米·赖特应该欣然接受这一积极向上的提议。",
+      "One accounting firm, EY, uses an AI system. 一家名为EY的会计师事务所使用人工智能系统。",
+      "The common idea that high CEO pay is mainly about ripping people off doesn't explain history very well. CEO的高薪主要是对员工的剥削，这一普遍观点并不能很好地反映过去的事实。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "独立成分——插入语（Parenthetical）",
+    "content": "独立成分是与句中其他成分有意义上、语气上或情感上的联系，但没有语法关系，独立于句子主干之外的词、短语或句子。独立成分分为感叹语、呼语和插入语。插入语可由形容词(短语)、动词不定式(短语)、分词短语、副词(短语)、介词短语和句子充当，通常用逗号、破折号与其他成分隔开。",
+    "examples": [
+      "A town of culture award could, it is argued, become an annual event. 有人认为，'文化之镇'奖可以成为一项年度活动。",
+      "According to the OECD report, some 75% of scholarly journals are now online. 根据经合组织的报告，目前大约有75%的学术期刊已经上线。",
+      "Believe it or not, a warm embrace might even help you avoid getting sick. 信不信由你，一个温暖的拥抱甚至可能帮助你避免生病。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子种类——陈述句（Declarative Sentence）",
+    "content": "陈述句用于陈述事实或表明说话人的看法、态度，分为肯定陈述句和否定陈述句。语序一般为'主语+谓语(+其他)'。否定陈述句含有否定词，构成方式包括：助动词+not+动词原形、系动词be+not+表语、情态动词+not+动词原形。",
+    "examples": [
+      "Retail trade groups praised the ruling. 零售贸易组织对这一裁决表示赞赏。（肯定）",
+      "However, those correlations don't prove cause and effect. 然而，这些相关性并不能证明因果关系。（否定）",
+      "The French tax is not just a unilateral move. 法国的数字服务税并不仅仅是一个单边行动。（否定）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子种类——疑问句（Interrogative Sentence）",
+    "content": "疑问句用于提出问题或询问情况，包括一般疑问句、特殊疑问句、选择疑问句和反意疑问句。一般疑问句以be动词/情态动词/助动词提问；特殊疑问句用特殊疑问词引导；选择疑问句用or连接备选项；反意疑问句遵循'前肯后否、前否后肯'的原则。",
+    "examples": [
+      "Is it possible to like everyone in your office? 有没有可能喜欢办公室里的每一个人？（一般疑问句）",
+      "How do we explain this trend? 我们该如何解释这一倾向呢？（特殊疑问句）",
+      "Are you looking to refresh your image or pivot it? 你是希望重塑新形象还是适当改善旧形象？（选择疑问句）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子种类——祈使句（Imperative Sentence）",
+    "content": "祈使句用于表示请求、命令、劝说、号召、警告等。主语默认为第二人称you，通常省略，谓语动词用原形。肯定式包括：动词原形(+其他)、Be+表语、Let+宾语+动词原形；否定式包括：Don't+动词原形、No+动名词/名词。",
+    "examples": [
+      "Make eye contact. 要进行眼神交流。",
+      "Be flexible. 要灵活。",
+      "Don't dismiss that possibility entirely. 不要完全摒除那种可能性。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子种类——感叹句（Exclamatory Sentence）",
+    "content": "感叹句用于表达喜、怒、哀、乐等不同感情色彩，一般由what或how引导。what为代词，在句中作定语修饰名词；how为副词，在句中作状语修饰形容词、副词或谓语动词。感叹句中一般不含有程度副词以避免语义重复。",
+    "examples": [
+      "What an inspiration she was to all around her! 她对于她周围的所有人是一种多么大的鼓舞!",
+      "How cute the bunny is! 这只兔子多可爱啊!",
+      "What clever boys they are! 他们是多么聪明的孩子啊!"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子结构——简单句（Simple Sentence）",
+    "content": "简单句是只有一套主谓结构的句子。英语五大基本句型包括：主+谓、主+谓+宾、主+系+表、主+谓+宾+宾补、主+谓+间宾+直宾。所有长难句经过层层剥离修饰成分后，最终都会得到一个最简单的主句主干。",
+    "examples": [
+      "We need a rebalancing of power. 我们都需要重新平衡权力。（主+谓+宾）",
+      "Many discussions are not so successful. 很多讨论并不会这么成功。（主+系+表）",
+      "Eye contact triggered more activity. 目光接触会引发更多活动。（主+谓+宾）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子结构——并列句（Compound Sentence）",
+    "content": "并列句由并列连词或连接符号（分号）把两个或两个以上的简单句连在一起构成。常见并列连词包括and（表引申）、but（表转折）、or（表选择）、so（表因果）、for（表原因）等。并列连词之前可不用逗号，也可使用逗号。",
+    "examples": [
+      "We neither understand nor respect each other, and we have no basis for compromise or cooperation. 我们既不理解也不尊重对方，因此我们没有妥协或合作的基础。",
+      "Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. 几乎所有的内饰细节都采用的是铸铁或石膏，并尽量减少使用木材，以确保消防安全。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "句子结构——复合句（Complex Sentence）",
+    "content": "复合句由一个主句和一个或一个以上的从句构成。从句在主句中充当某个成分，包括主语从句、宾语从句、表语从句、同位语从句、定语从句和状语从句六大类。从句不能单独存在，通常由引导词引导，可位于主句之前或之后。",
+    "examples": [
+      "This suggests the possibility that lifestyle factors might help prevent this type of decline. 这表明了一种可能性，即生活方式因素可能有助于预防这种衰退。",
+      "Haddad and Lewis are concerned that more than half the state-government boards are less than 40 percent female. 哈达德和刘易斯担心的是，超过一半的州政府委员会中女性比例不足40%。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "时态（Tense）",
+    "content": "英语时态通过谓语动词的形式变化来体现，表示动作发生的时间和状态。考研英语中常考的时态包括一般现在时、一般过去时、一般将来时、现在完成时、过去完成时、现在进行时、过去进行时等。时态的选择取决于上下文的时间关系和语义需要。",
+    "examples": [
+      "Artificial intelligence is typically depicted as something sinister. 人工智能通常被描绘为某种邪恶事物。（一般现在时）",
+      "World War II was the watershed event for higher education. 第二次世界大战是现代西方社会高等教育的分水岭。（一般过去时）",
+      "Manuscript will be flagged up for additional scrutiny. 原稿将被做上标记以接受额外审查。（一般将来时）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "被动语态（Passive Voice）",
+    "content": "被动语态表示主语是谓语动作的承受者，基本构成形式为'be+及物动词的过去分词(done)'。进行式为'be+being+done'，完成式为'have+been+done'。谓语中含情态动词时，被动式为'情态动词+be+done'。某些系动词和表示主语内在品质的动词可用主动形式表示被动意义。",
+    "examples": [
+      "Artificial intelligence is typically depicted as something sinister. 人工智能通常被描绘为某种邪恶事物。",
+      "Specific brain regions are being explored by other researchers. 其他研究者正在探究特定的大脑区域。（进行时被动）",
+      "Most archaeological sites have been located by means of careful searching. 大多数考古遗址都是通过仔细探寻才被找到的。（完成时被动）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "名词性从句——主语从句（Subject Clause）",
+    "content": "主语从句是在复合句中充当主语的从句。引导词包括that、whether/if、连接代词（what、who等）和连接副词（how、when、where、why）。为避免头重脚轻，常用it作形式主语将主语从句后置。that引导主语从句时无实义，一般不省略。",
+    "examples": [
+      "How people think is still far too complex to be understood. 人类的思维方式仍然过于复杂，难以理解。",
+      "It is true that CEO pay has gone up. CEO的薪资确实上涨了。",
+      "Whether this research translates elsewhere is anybody's guess. 这项研究是否适用于其他地区还不得而知。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "名词性从句——宾语从句（Object Clause）",
+    "content": "宾语从句在复合句中充当宾语，可作及物动词的宾语、介词的宾语或某些形容词的宾语。引导词包括that（可省略）、whether/if（意为'是否'）、连接代词（what、who等）和连接副词（when、where、how、why）。",
+    "examples": [
+      "People complained that buses were late and infrequent. 人们抱怨巴士晚点而且班次太少。",
+      "Ferraro wanted to see if Indonesia's poverty-alleviation program was affecting deforestation. 费拉罗想弄清印度尼西亚的扶贫项目是否影响到了森林砍伐。",
+      "Maybe you want to get a clearer sense of what the group thinks. 也许你想更清楚地了解小组成员的想法。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "名词性从句——表语从句（Predicative Clause）",
+    "content": "表语从句在复合句中充当表语，通常位于系动词be之后。引导词包括that、whether、because、as if/though、连接代词（what、who等）和连接副词（why、how、when、where）。当主语为reason时，表语从句须用that引导。",
+    "examples": [
+      "The real problem is that the parks have been chronically starved of funding. 真正的问题是这些公园长期严重缺乏资金。",
+      "That's because economic growth can be correlated with environmental degradation. 那是因为经济增长可能与环境恶化相关。",
+      "The great question is who should benefit from the analysis of all the data. 重要的问题是，谁应该从分析所有数据中获益。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "名词性从句——同位语从句（Appositive Clause）",
+    "content": "同位语从句在复合句中充当同位语，解释说明抽象名词（如idea、belief、evidence、fact、truth等）的具体内容。引导词以that最为常见，无实义，一般不省略。同位语从句与定语从句的区别：同位语从句说明名词的内容，that不充当成分；定语从句修饰限定名词，that充当成分。",
+    "examples": [
+      "For a long time, scientists concentrated on the idea that teenagers were a problem that needed to be solved. 长期以来，科学家专注于'青少年是需要解决的难题'这一观点。",
+      "There is no conclusive evidence that it causes cancer in humans. 并没有确凿的证据表明它会导致人类患癌。",
+      "Britain's new rule is a reminder to bankers that society has an interest in their performance. 英国的新规提醒银行家们，社会与他们的表现利害相关。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "定语从句（Attributive Clause）",
+    "content": "定语从句在复合句中修饰名词或代词，由关系词引导。关系词分为关系代词（that、which、who、whom、whose、as）和关系副词（when、where、why、that）。定语从句分为限定性定语从句（不可省略，无逗号分隔）和非限定性定语从句（补充说明，有逗号分隔）。'介词+关系代词'结构中关系代词只用whom或which。",
+    "examples": [
+      "Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt. 一些缺乏同情心的孩子可以通过体验更多的内疚感来弥补这种不足。",
+      "California's plan, which is expected to be finalized by the governor next year, should serve as a model. 加利福尼亚州的计划应成为一个典范。",
+      "Firms seem to invest more in places where most people are relatively happy. 公司似乎会在大多数人都相对幸福的地方投资更多。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "状语从句（Adverbial Clause）",
+    "content": "状语从句在复合句中充当状语，修饰主句或主句中的谓语部分，由从属连词引导。类型包括：时间状语从句（when、while、as、before、after）、条件状语从句（if、unless）、让步状语从句（though、although、while）、原因状语从句（because、since、as）、比较状语从句（than、as）、方式状语从句（as、as if）、目的状语从句（so that）、结果状语从句（so...that、such...that）和地点状语从句（where）。",
+    "examples": [
+      "When the skills mismatch is in the broader economy, the focus turns to government. 当技能不匹配出现在更广泛的经济领域时，焦点转由政府来处理。（时间）",
+      "If the sustainable-egg rollout is successful, it could open the floodgates. 如果可持续鸡蛋的推出获得成功，它可能会打开闸门。（条件）",
+      "Though Native Americans had long recognized the area's riches, most Americans did not. 尽管美洲土著居民早就意识到了该地区的财富，但大多数美国人并没有意识到。（让步）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "并列结构（Coordination Structure）",
+    "content": "并列结构是两个或两个以上意义相关、层次相同、句法功能相同的结构通过并列连词连接而成。常见并列连词包括：表引申（and、as well as、both...and、not only...but also）、表转折（but、yet）、表选择（or、either...or）、表因果（so、for）。并列结构可出现在词、短语或分句层面。",
+    "examples": [
+      "The effort was a collective one and involved other companies as well as a Swedish university. 这是一项集体活动，其他公司和一所瑞典大学也参与其中。",
+      "Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content. 人工智能不仅可以帮助创建营销内容，还可以提供一种非干扰性的传递方式。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "分隔结构（Split Structure）",
+    "content": "分隔结构是指本应紧密相连的句子成分被其他成分隔开的现象。常见的有：主谓分隔（主语和谓语之间插入定语从句、同位语或介词短语）、动宾分隔、定名分隔（定语与被修饰名词被状语隔开）、同位语从句与先行词分隔。分隔结构大大增加了句子分析的难度。",
+    "examples": [
+      "The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb. 因人类而不断加速的气候变化终有一天可能会使森林的碳排放量超过其碳吸收量。（主谓分隔）",
+      "Britain's new rule is a reminder to bankers that society has an interest in their performance. 英国的新规提醒银行家们社会与他们的表现利害相关。（同位语从句与先行词分隔）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "嵌套结构（Nested Structure）",
+    "content": "嵌套结构是指从句中又包含从句的现象，形成一级从句、二级从句甚至三级从句的层层嵌套。这种结构中，二级从句充当一级从句的某个成分。嵌套结构是考研英语长难句的核心难点，常与分隔结构、并列结构组合出现。",
+    "examples": [
+      "The study shows that what's good for people may also be good for the environment. 该研究表明，对人类有益的东西也可能对环境有益。（宾语从句嵌套主语从句）",
+      "When people place their trust in an individual, their brains release oxytocin, a hormone that produces pleasurable feelings and triggers the herding instinct that prompts humans to connect with one another. 当人们给予信任时，大脑释放催产素，这种激素产生愉悦感并触发群居本能，该本能促使人类彼此建立关系。（多层嵌套）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "比较结构（Comparison Structure）",
+    "content": "比较结构用于表示两者或多者之间的比较关系。常见形式包括：as...as（同级比较）、more...than（比较级）、the+比较级...the+比较级（越……越……）。比较状语从句常由than或as引导，从句中常省略与主句重复的部分，有时使用倒装语序。",
+    "examples": [
+      "The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb. 气候变化终有一天可能会使森林的碳排放量超过其碳吸收量。",
+      "Yes, there is the risk that the original will not have as good security as do the foreign countries. 是的，文物的原属国可能没有像其收藏国那样好的安保措施。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "否定结构（Negation Structure）",
+    "content": "否定结构表达否定意义，包括全部否定（no、not、never、neither、nor等）、部分否定（not all、not every等）、双重否定（两个否定词连用表肯定）和含蓄否定（通过词汇手段表达否定含义）。否定词位于句首时，常引起部分倒装。",
+    "examples": [
+      "Nor was there any evidence that those who self-enhanced the most were doing so to make up for profound insecurities. 也没有任何证据表明那些自我美化最多的人是为了弥补内心强烈的不安全感。",
+      "Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content. 人工智能不仅可以帮助创建营销内容，还可以提供非干扰性的传递方式。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "独立主格结构（Absolute Construction）",
+    "content": "独立主格结构是由'名词/代词+非谓语动词（分词/不定式）'构成的特殊状语结构，其逻辑主语与主句主语不同。基本形式为'(with/without+)名词(短语)/代词+非谓语动词'，意义相当于一个状语从句，表示时间、条件、原因、伴随等。独立主格结构与主句之间用逗号隔开。",
+    "examples": [
+      "Human nature being what it is, most people stick with default settings. 大多数用户都会坚持使用默认设置，这是人性使然。（表原因）",
+      "With supply chains spread across a larger number of countries, large American companies are much more globalized than ever before. 供应链遍布更多的国家，美国大型公司比以往任何时候都更加全球化。（表伴随）",
+      "With the United States trade representative opening an investigation, it has sparked significant controversy. 美国贸易代表开始调查，这已经引起了重大争议。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "倒装句（Inversion）",
+    "content": "倒装分为完全倒装和部分倒装。完全倒装是将整个谓语置于主语之前，常见于there be句型、表语前置的'表+系+主'结构等。部分倒装是将助动词/情态动词/be动词置于主语之前，常见情况包括：否定词/词组位于句首、'only+状语'位于句首、as/though引导的让步状语从句、虚拟条件句省略if等。",
+    "examples": [
+      "Not only can AI help to create the marketing content, but it can also provide a non-intrusive way. 人工智能不仅可以帮助创建营销内容，还可以提供非干扰性的传递方式。（否定词位于句首）",
+      "Only recently have they come to see the vital part forests will have to play in storing carbon. 直到最近，他们才意识到森林在碳储存方面必将扮演的重要角色。（only+状语位于句首）",
+      "Harsh as it may be to say, that decision should likely not be made contingent on a child's opinions. 尽管这样说可能有些刺耳，但这一决定不应取决于孩子们的意见。（as引导让步状语从句）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "强调结构（Emphasis Structure）",
+    "content": "强调用于凸显句中最重要的成分。常见方式包括：1) 单词及短语式强调：助动词do/does/did强调谓语、own/sheer/very等形容词强调名词、反身代词作同位语强调名词；2) 句型结构式强调：'It is/was+被强调部分+that/who+其他成分'（可强调主语、宾语、状语等，但不能强调谓语）、倒装结构表示强调、前置表示强调。",
+    "examples": [
+      "The zones do deliver some improvements to air quality. 这些区域确实对改善空气质量有所帮助。（do强调谓语）",
+      "It was with these great revelations that a new kind of philosophy founded in reason was born. 正是因为这些伟大的发现，一种基于理性的新哲学才得以诞生。（强调句型）",
+      "The court did suggest that accepting favors is distasteful and nasty. 法院的确指出收受好处令人不快且卑鄙龌龊。（did强调谓语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "省略（Ellipsis）",
+    "content": "省略是指为了避免重复、使语言简洁而省去句中某些成分的语法现象。常见省略包括：定语从句中关系代词作宾语时可省略；状语从句中主语和be动词可省略；比较状语从句中与主句重复的部分可省略；非正式文体中，关系副词when/where/why有时可省略。",
+    "examples": [
+      "Recently, many historians have begun to focus on the role (that/which) slavery played in the lives of the founding generation. 最近，很多历史学家开始关注奴隶制在开国元勋们的生活中所扮演的角色。（省略关系代词）",
+      "But the researchers believe that outside directors have an easier time if they leave a firm before bad news breaks, even if a review of history shows they were on the board at the time (when/that) any wrongdoing occurred. 研究人员认为如果外部董事在坏消息传出之前离开公司就可以更轻易地避免名誉受损。（省略关系副词）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "虚拟语气（Subjunctive Mood）",
+    "content": "虚拟语气表示说话人的主观愿望、假设、建议、猜测等非真实情况。考研英语中常见：1) if引导的非真实条件句（与现在/过去/将来事实相反）；2) 省略if的倒装虚拟条件句（had/were/should提前）；3) 名词性从句中的虚拟语气（suggest、recommend等动词后的that从句中用should+动词原形，should可省略）。",
+    "examples": [
+      "At Boston College, you would have to complete an extra year were you to switch to the nursing school from another department. 在波士顿学院，如果要从其他学院转入护理学院，你就必须再多读一年。（省略if的虚拟条件句）",
+      "The court did suggest that accepting favors in return for opening doors is distasteful. 法院的确指出收受好处并因此为他人开方便之门的行为令人不快。（suggest后的宾语从句）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "主谓一致（Subject-Verb Agreement）",
+    "content": "主谓一致指谓语动词在人称和数上要与主语保持一致。基本原则包括：语法一致（主语单复数决定谓语单复数）、意义一致（根据主语表达的实际意义决定）、就近一致（由离谓语最近的主语决定）。强调句型中，被强调部分若为主语，that/who之后的谓语应与主语保持一致。",
+    "examples": [
+      "It is this apparent transcendence of politics that explains monarchs' continuing popularity. 正是这种明显的对政治的超越，解释了君主一直很受欢迎的原因。（强调句型中的主谓一致）",
+      "It is the British royals who have most to fear from the Spanish example. 最害怕自己会重蹈西班牙覆辙的当属英国王室了。（强调句型中的主谓一致）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "There be 句型",
+    "content": "There be句型用于说明或询问人或物的客观存在，基本结构为'There+be+主语+附加成分'。谓语动词除be外，还可用'情态动词+be'、seem、appear、exist、remain、come、arise等。附加成分常为介词短语、现在分词短语或定语从句。There be句型的be动词与其后的主语在人称和数上保持一致。",
+    "examples": [
+      "There are many different types of automatic door. 自动门有很多不同的类型。",
+      "There seems to be a predominance of short-term thinking at the expense of long-term investing. 以牺牲长期投资为代价的短期思维似乎占据了主导地位。",
+      "Surely there must be some middle ground that balances zoos' treatment of animals with their educational potential. 肯定有一些折中的方法来平衡动物园对待动物的方式和动物园的教育潜力。"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "非谓语动词——动词不定式（Infinitive）",
+    "content": "动词不定式是非谓语动词的一种，形式为'to+动词原形'，具有名词、形容词和副词的特征，可在句中作主语、宾语、表语、定语、状语和补语。不定式的复合结构为'for/of sb. to do sth.'，可作主语、宾语、表语等。不定式的被动式为'to be done'，完成式为'to have done'。",
+    "examples": [
+      "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose. 从共性中筛除个性，这会使我们得以理解复杂的文化行为是如何产生的。（主语）",
+      "Labour likewise wants to discontinue local planning. 工党也想终止地方规划。（宾语）",
+      "The team employed robotics to survey the site. 该团队使用了机器人技术对该遗址进行勘测。（目的状语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "非谓语动词——分词（Participle）",
+    "content": "分词分为现在分词和过去分词。现在分词表主动或进行，过去分词表被动或完成。分词可在句中作定语、状语、表语和补语。分词短语作状语时可表时间、原因、条件、方式、伴随、结果和让步。分词的逻辑主语通常与主句主语一致。独立主格结构中分词有自己的逻辑主语。",
+    "examples": [
+      "More Americans are opting to work well into retirement, a growing trend that threatens to upend the old workforce model. 更多的美国人选择在退休后继续工作，这一日益增长的趋势可能会颠覆旧的劳动力模式。（现在分词作定语）",
+      "You and your children will benefit and emerge from stressful moments feeling better physically and emotionally. 你和你的孩子都会从感到有压力的那些时刻中获益并摆脱出来，身心状态都会更好。（现在分词作伴随状语）",
+      "A recent paper, titled 'The Natural Selection of Bad Science', attempts to answer this intriguing question. 最近的一篇题为《劣质科学的自然选择》的文章试图解答这个有趣的问题。（过去分词作定语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "非谓语动词——动名词（Gerund）",
+    "content": "动名词的形式为'动词原形+-ing'，具有名词的特征，可在句中作主语、宾语、表语和定语。动名词的复合结构为'形容词性物主代词/名词所有格+动名词'，其逻辑主语为物主代词或名词所有格。动名词的被动式为'being done'，完成式为'having done'。",
+    "examples": [
+      "Putting your faith in the wrong place often carries a high price. 信任错付往往会让你付出高昂的代价。（主语）",
+      "Vocational schools should do a better job of fostering problem-solving skills. 职业学校应该更好地培养学生解决问题的能力。（介词宾语）",
+      "The two highly recommended lifestyle approaches are maintaining or increasing your level of aerobic exercise. 强烈推荐两种生活方式：保持或提高你的有氧运动水平。（表语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "介词短语的功能",
+    "content": "介词短语在句中有五大常考功能：1) 作状语（时间、地点、方式、原因、条件、伴随、让步、目的状语）；2) 作后置定语（修饰名词或代词，译为'……的'）；3) 作表语（置于系动词之后）；4) 作插入语（置于句首、句中或句末）；5) 作补足语（对主语或宾语进行补充说明）。区分后置定语和状语的方法：在介词短语前添加'关系代词+be'看是否成立。",
+    "examples": [
+      "In a social situation, eye contact with another person can show that you are paying attention. 在社交场合中，与他人进行目光接触表示你正在关注着对方。（介词短语作状语）",
+      "Travellers on the Silk Road faced the possibility of being attacked by thieves. 丝绸之路上的旅行者们曾面临被小偷袭击的可能。（介词短语作后置定语）",
+      "In fact, the ability to maintain emotional control when confronted by stress is one of the most significant of all life's skills. 事实上，在面对压力时控制好情绪是最重要的生活技能之一。（介词短语作插入语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "词形变化（Inflection）",
+    "content": "在英语中，只有实词具有词形变化，虚词没有。名词有数和格的变化；动词有时态、语态、语气、人称和数的变化；形容词和副词有比较级和最高级的变化；代词有人称、性、数、格的变化。掌握词形变化是正确使用英语语法的基础。",
+    "examples": [
+      "short-term memory 短期记忆 — 名词单数",
+      "more seriously 更认真地 — 副词比较级",
+      "have been located 已被找到 — 动词的完成被动式"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "限定性定语从句与非限定性定语从句的区别",
+    "content": "限定性定语从句修饰限定先行词，与先行词关系密切且不可省略，否则句子含义会受影响，通常紧跟先行词且不用逗号隔开。非限定性定语从句对先行词起补充说明作用，关系较松散，省略不影响句子含义，与先行词之间用逗号隔开，通常不用that引导，关系词不可省略。",
+    "examples": [
+      "Ancient art that is displayed in foreign countries by all means should be returned to the original country. 在其他国家展出的古代艺术品当然应该归还其原属国。（限定性）",
+      "California's plan, which is expected to be finalized by the governor next year, should serve as a model. 加利福尼亚州的计划应成为一个典范。（非限定性）",
+      "Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses. 一些缺乏同情心的孩子可以通过体验更多的内疚感来弥补不足，这种内疚感可以抑制他们更恶意的冲动。（限定性+非限定性）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "定语从句中关系词的省略",
+    "content": "定语从句中关系词的省略规则：1) 限定性定语从句中，关系代词that/which/who/whom作动词宾语或作介词宾语且介词不在其前时可省略；2) 关系代词that在定语从句中作表语或宾语补足语时可省略；3) 非正式文体中，先行词为时间名词时关系副词when/that可省略；4) 先行词为地点名词时关系副词where/that可省略（需补充介词）；5) 先行词为reason时why/that可省略；6) 先行词为the way表'方式'时可省略that。",
+    "examples": [
+      "Recently, many historians have begun to focus on the role (that/which) slavery played. 最近很多历史学家开始关注奴隶制所扮演的角色。（省略关系代词作宾语）",
+      "I can recall the day (when/that) my grandfather died. 我记得祖父去世那天的情景。（省略关系副词）",
+      "There are many reasons (why/that) this institution finds itself on the verge of bankruptcy. 这个机构发觉自己处于破产边缘，原因有很多。（reason后省略why/that）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "目的状语从句与结果状语从句",
+    "content": "目的状语从句表示行为的目的，常由so that、in order that等引导，从句中常出现情态动词can/could/may/might/should/would。结果状语从句表示行为产生的结果，常由so...that、such...that引导。二者区别：目的状语从句表主观意图，结果状语从句表客观结果；目的状语从句中常有情态动词，结果状语从句中一般没有。",
+    "examples": [
+      "Caravanserais were strategically placed so that they could be reached in a day's travel time. 商队客栈被设置在了最佳位置，以便旅行者们能在一天内到达。（目的状语从句）",
+      "Plant biology differs so greatly from that of animals that so-called evidence of plants' intelligence is inconclusive. 植物的生理习性与动物的差异如此之大，以至于所谓的植物有智力的证据没有说服力。（结果状语从句）",
+      "He had such a pleasant, readable style that one might think that anyone could imitate it. 他的风格欢快且通俗易懂，让人觉得谁都可以模仿。（结果状语从句）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "分词作状语（Participial Adverbial）",
+    "content": "分词（现在分词和过去分词）短语可在句中作状语，表示时间、原因、条件、方式、伴随、结果和让步。现在分词表主动或进行，过去分词表被动或完成。分词作状语时，其逻辑主语通常与主句主语一致。分词短语作状语可转换为相应的状语从句。",
+    "examples": [
+      "You and your children will benefit and emerge from stressful moments feeling better physically and emotionally. 你和你的孩子都会获益并摆脱压力，身心状态都会更好。（现在分词作伴随状语）",
+      "Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension. 安特吉公司的行为激怒了佛蒙特州参议院，去年参议院以26票比4票否决了它的延期申请。（过去分词作原因状语）",
+      "Energy companies can use AI to help customers reduce their electricity bill, saving them money while helping the environment. 能源公司可使用人工智能帮助客户减少电费，省钱的同时也有助于保护环境。（现在分词作结果状语）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "动词不定式的时态与语态",
+    "content": "动词不定式有时态和语态的变化。一般式to do表示与谓语动作同时或之后发生；进行式to be doing表示与谓语动作同时发生；完成式to have done表示在谓语动作之前发生。被动式：一般被动式to be done，完成被动式to have been done。不定式复合结构为'for/of sb. to do sth.'。",
+    "examples": [
+      "They did not want to be followed. 他们不想被跟踪。（不定式一般被动式）",
+      "To have been caught in a sandstorm was a terrible experience. 遇上沙尘暴是一次可怕的经历。（不定式完成被动式）",
+      "It is less important for me to track my weight each week. 每周追踪体重对我来说没那么重要。（不定式复合结构）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "特殊疑问句（Wh-Question）",
+    "content": "特殊疑问句用特殊疑问词引导，以寻求信息为目的。特殊疑问词包括疑问代词（who、whom、whose、what、which）、疑问副词（when、where、why、how）和how词组（how long、how far、how often等）。回答不能用yes或no，须根据具体情况回答。特殊疑问词在句中可以充当主语、宾语、表语、定语、状语等成分。",
+    "examples": [
+      "What are the norms of your environment? 你所处环境的规则是什么？",
+      "How do we explain this trend? 我们该如何解释这一倾向呢？",
+      "But where is the evidence to support such alarmist advice? 但是，支持这种危言耸听的建议的证据在哪里呢？"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "延续性动词与非延续性动词",
+    "content": "延续性动词表示一种可以持续的行为或状态，如keep、work、live、sleep、walk、think、stand、lie、read、study、wait等。非延续性动词表示行为是瞬间完成的，如arrive、go、come、find、buy、join、die、close、start、stop、end、begin等。在when/while引导的时间状语从句中，延续性动词两者均可使用，而非延续性动词只能用于when从句中。",
+    "examples": [
+      "When Liam McGee departed as president of Bank of America in August, his explanation was surprisingly straight up. 利亚姆·麦吉在8月辞去美国银行总裁的职务时，他的解释出人意料地直白。（非延续性动词depart）",
+      "These printouts are also easier to read than the screen when you work on revisions. 当你修改时，在纸张上阅读也比在屏幕上阅读更方便。（延续性动词work）",
+      "Chat on the phone with a friend while you walk around your neighborhood. 当你在社区附近散步时，可以和朋友打电话聊天。（延续性动词walk用于while从句）"
+    ]
+  },
+  {
+    "type": "grammar",
+    "title": "半助动词（Semi-Auxiliary）",
+    "content": "半助动词是兼有实义动词和助动词双重特征的动词，有一定的词汇意义。be型半助动词包括：be to、be about to、be going to、be supposed to、be (un)likely to、be (un)willing to、be (un)able to、be bound to、be sure to等。其他型半助动词包括：tend to、seem to、appear to、happen to、come to、fail to、get to、turn out to等。半助动词后接不带to的不定式（实为to已包含在半助动词中）。",
+    "examples": [
+      "Postal special-interest groups seem to have killed it. 邮政特殊利益集团似乎已经将其扼杀。（seem to）",
+      "Elite soccer players are more likely to have been born in the earlier months of the year. 出色的足球运动员更有可能出生在一年中的前几个月。（be likely to）",
+      "The move turned out to be foresighted. 此举最后被证明是有先见之明的。（turn out to）"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way.",
+    "analysis": "介词短语In a social situation作地点状语，介词短语in a friendly way作方式状语，that引导宾语从句作show的宾语。",
+    "translation": "在社交场合中，与他人进行目光接触表示你正在以一种友好的方式关注着对方。",
+    "grammarPoints": [
+      "介词短语作状语",
+      "宾语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The complaints are unlikely to stop without an overhaul of immigration rules for farm workers.",
+    "analysis": "介词短语without an overhaul...作条件状语，相当于一个条件状语从句。动词不定式短语to stop作主语补足语。",
+    "translation": "如果不对农场工人的移民条例进行全面改革，这些抱怨就不大可能停止。",
+    "grammarPoints": [
+      "介词短语作状语",
+      "不定式",
+      "条件状语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Travellers on the Silk Road faced the possibility of being attacked by thieves or being subjected to extreme weather conditions.",
+    "analysis": "介词短语on the Silk Road作后置定语修饰Travellers，介词短语of being attacked...作后置定语修饰possibility，其中动名词短语being attacked和being subjected to构成并列结构。",
+    "translation": "丝绸之路上的旅行者们曾面临被小偷袭击或遭遇极端天气状况的可能。",
+    "grammarPoints": [
+      "介词短语作后置定语",
+      "动名词",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Guilt, in other words, can help hold a cooperative species together.",
+    "analysis": "介词短语in other words作插入语，用于解释说明。动宾结构hold a cooperative species together作help的宾语。",
+    "translation": "换句话说，内疚感有助于让一个合作性的种群团结起来。",
+    "grammarPoints": [
+      "插入语",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses.",
+    "analysis": "who引导限定性定语从句修饰Some kids，which引导非限定性定语从句补充说明guilt。主句谓语may make up for中，介词短语by experiencing more guilt作方式状语。",
+    "translation": "一些缺乏同情心的孩子可以通过体验更多的内疚感来弥补这种不足，这种内疚感可以抑制他们更恶意的冲动。",
+    "grammarPoints": [
+      "定语从句",
+      "限定性定语从句",
+      "非限定性定语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed.",
+    "analysis": "whose引导限定性定语从句修饰Luddites，whose在从句中作定语修饰jobs。but连接两个并列分句构成并列结构，than引导比较状语从句。",
+    "translation": "虽然工业革命对那些工作被机械化织布机所取代的卢德分子不太友好，但它最终提高了人们的生活水平，而且它创造的工作比淘汰掉的要多。",
+    "grammarPoints": [
+      "定语从句",
+      "并列结构",
+      "比较状语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "California's plan, which is expected to be finalized by the governor next year, should serve as a model.",
+    "analysis": "which引导非限定性定语从句补充说明California's plan，与先行词之间用逗号隔开。若省略该从句，不影响句子整体的含义。",
+    "translation": "加利福尼亚州的计划预计在明年由州长最终敲定，这一计划应成为一个典范。",
+    "grammarPoints": [
+      "非限定性定语从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "And in that, once more, we need to look to the example of our children, to whom happiness is not a goal but a natural byproduct of the way they live.",
+    "analysis": "to whom引导非限定性定语从句，'介词to+关系代词whom'结构中，介词to根据上下文含义选用。先行词为our children，to whom在从句中作状语表对象。",
+    "translation": "正因为如此，我们应再一次以孩子为榜样，对他们来说，幸福不是目标，而是他们自身生活方式自然产生的额外收获。",
+    "grammarPoints": [
+      "介词+关系代词",
+      "非限定性定语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Then they rated the degree to which they had used intuition.",
+    "analysis": "'介词to+关系代词which'引导限定性定语从句修饰the degree，to which相当于to the degree，在从句中作状语。先行词the degree与介词to搭配使用。",
+    "translation": "然后，他们对自己利用直觉的程度进行评分。",
+    "grammarPoints": [
+      "介词+关系代词",
+      "限定性定语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Such practices can lead an article to accrue more than 150 citations in the same year that it was published.",
+    "analysis": "关系副词that引导限定性定语从句修饰the same year，that在从句中作时间状语。动词不定式短语to accrue...作宾语补足语。",
+    "translation": "这样的做法可以让一篇文章在发表的同一年内被引用累计超过150次。",
+    "grammarPoints": [
+      "定语从句",
+      "关系副词",
+      "不定式作补语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "When the skills mismatch is in the broader economy, though, the focus usually turns to government to handle.",
+    "analysis": "When引导时间状语从句作主句的时间状语。though作插入语表示转折。动词不定式短语to handle作目的状语。",
+    "translation": "但是，当技能不匹配这一现象出现在更广泛的经济领域时，这一焦点通常会转由政府来处理。",
+    "grammarPoints": [
+      "时间状语从句",
+      "插入语",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future.",
+    "analysis": "unless引导条件状语从句，意为'除非'，相当于if...not。主句中使用may become表示可能性推测。介词短语in the future作时间状语。",
+    "translation": "因此，除非客户愿意签署公开协议，否则未来人工智能的运用可能会受到一定的限制。",
+    "grammarPoints": [
+      "条件状语从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Still, while every parent would like to be patient, this is no easy task.",
+    "analysis": "while引导让步状语从句，可替换为though/although。Still作为连接副词表转折。this指代前文提到的being patient这件事。",
+    "translation": "不过，尽管每个父母都希望自己有耐心，但这并非易事。",
+    "grammarPoints": [
+      "让步状语从句",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The latter group made no effort to recall the information when quizzed on it later, because they knew they could find it on their computers.",
+    "analysis": "because引导原因状语从句。when引导的时间状语从句中省略了they were（状语从句的省略）。they could find it...为省略that的宾语从句作knew的宾语。",
+    "translation": "后一组参与者在后来被询问信息时没有尝试回忆这些信息，因为他们知道可以在自己的电脑上找到这些信息。",
+    "grammarPoints": [
+      "原因状语从句",
+      "省略",
+      "宾语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb.",
+    "analysis": "省略关系代词which/that的定语从句we are hastening造成主谓分隔。that引导定语从句修饰forests。than引导比较状语从句嵌套在定语从句中，构成嵌套结构。more...than构成比较结构。",
+    "translation": "因人类而不断加速的气候变化终有一天可能会留给我们碳排放量超过其碳吸收量的森林。",
+    "grammarPoints": [
+      "分隔结构",
+      "嵌套结构",
+      "比较结构",
+      "定语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "For this reason, caravanserais were strategically placed so that they could be reached in a day's travel time.",
+    "analysis": "so that引导目的状语从句，从句中含有情态动词could。主句使用被动语态were placed。介词短语For this reason作原因状语。",
+    "translation": "鉴于此，商队客栈被设置在了最佳位置，以便旅行者们能在一天的行程时间内到达。",
+    "grammarPoints": [
+      "目的状语从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Ferraro suggests the results may transfer to other parts of Asia, due to commonalities such as the importance of growing rice and market access.",
+    "analysis": "suggests后接省略that的宾语从句。介词短语due to...作原因状语。such as引出同位语举例说明commonalities。",
+    "translation": "费拉罗认为，由于亚洲其他地区在水稻种植的重要性和市场准入等方面与印度尼西亚存在共性，该研究结果可能适用于亚洲其他地区。",
+    "grammarPoints": [
+      "宾语从句",
+      "省略",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Although ethics classes are common around the world, scientists are unsure if their lessons can actually change behavior.",
+    "analysis": "Although引导让步状语从句。if引导宾语从句（可替换为whether）位于形容词unsure后。if在从句中不充当成分，意为'是否'。",
+    "translation": "虽然伦理课在世界各地都很普遍，但科学家们不确定他们的课程是否能真正改变行为。",
+    "grammarPoints": [
+      "让步状语从句",
+      "宾语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The egg industry's push is the first major test of whether animal products from regenerative farms can become the next premium offering.",
+    "analysis": "whether引导宾语从句作介词of的宾语，此处whether不能替换为if。介词短语from regenerative farms作后置定语修饰animal products。",
+    "translation": "美国鸡蛋行业所做的努力是对再生农场生产的动物产品能否成为下一个优质产品的第一次重大测试。",
+    "grammarPoints": [
+      "宾语从句",
+      "介词短语作后置定语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "What the study doesn't measure is whether people are still doing work when they're at home.",
+    "analysis": "What引导主语从句作主句主语。whether引导表语从句，意为'是否'。when引导时间状语从句嵌套在表语从句中。",
+    "translation": "该研究没有考量人们在家时是否继续工作。",
+    "grammarPoints": [
+      "主语从句",
+      "表语从句",
+      "时间状语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "That's because economic growth can be correlated with environmental degradation.",
+    "analysis": "because引导表语从句，意为'因为'，用于'That/This/It is because...'句型中。被动语态can be correlated with表示'与……相关'。",
+    "translation": "那是因为经济增长可能与环境恶化相关。",
+    "grammarPoints": [
+      "表语从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It's as if you're driving a stick shift.",
+    "analysis": "as if引导表语从句，意为'好像'，不充当句子成分。as if/though引导的表语从句常表示比喻或推测。",
+    "translation": "这就好像你正在开一辆手动挡汽车。",
+    "grammarPoints": [
+      "表语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Whether this research translates elsewhere is anybody's guess.",
+    "analysis": "Whether引导主语从句置于句首作主语。whether引导的主语从句置于句首或句末均可，而if引导的主语从句只能置于句末。",
+    "translation": "这项研究是否适用于其他地区还不得而知。",
+    "grammarPoints": [
+      "主语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "For a long time, scientists and policy makers concentrated on the idea that teenagers were a problem that needed to be solved.",
+    "analysis": "第一个that引导同位语从句解释说明the idea的具体内容，that在从句中不充当成分。第二个that引导限定性定语从句修饰a problem，that在从句中充当主语。",
+    "translation": "长期以来，科学家和政策制定者专注于'青少年是需要解决的难题'这一观点。",
+    "grammarPoints": [
+      "同位语从句",
+      "定语从句",
+      "嵌套结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Britain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+    "analysis": "that引导同位语从句解释说明a reminder，但被介词短语to bankers隔开，造成同位语从句与先行词的分隔。not just...but...构成并列结构。",
+    "translation": "英国的新规提醒银行家们，社会与他们的表现利害相关，不仅在短期内如此，就长远来看亦是如此。",
+    "grammarPoints": [
+      "同位语从句",
+      "分隔结构",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers.",
+    "analysis": "Not only位于句首引起部分倒装，情态动词can提至主语AI之前。but also所在分句不倒装。Not only...but also连接两个并列分句。",
+    "translation": "人工智能不仅可以帮助创建营销内容，还可以提供一种非干扰性的方式，将该内容传递给目标客户。",
+    "grammarPoints": [
+      "倒装",
+      "并列结构",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Only recently have they come to see the vital part forests will have to play in storing carbon.",
+    "analysis": "'Only+状语recently'位于句首引起部分倒装，助动词have提至主语they之前。省略关系词的定语从句forests will have to play修饰the vital part。动词不定式to see作come的宾语。",
+    "translation": "直到最近，他们才意识到森林在碳储存方面必将扮演的重要角色。",
+    "grammarPoints": [
+      "倒装",
+      "定语从句",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Harsh as it may be to say, that decision should likely not be made contingent on a child's opinions.",
+    "analysis": "as引导让步状语从句，表语Harsh置于句首构成部分倒装，还原为'As it may be harsh to say'。主句中使用被动语态和情态动词。",
+    "translation": "尽管这样说可能有些刺耳，但这一决定不应取决于孩子们的意见。",
+    "grammarPoints": [
+      "倒装",
+      "让步状语从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "At Boston College, you would have to complete an extra year were you to switch to the nursing school from another department.",
+    "analysis": "省略if的非真实条件状语从句中were提到句首构成部分倒装，还原为'if you were to switch...'。主句使用would have to表示假设条件下的结果。",
+    "translation": "在波士顿学院，如果要从其他学院转入护理学院，你就必须再多读一年。",
+    "grammarPoints": [
+      "虚拟语气",
+      "倒装",
+      "省略"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The zones do deliver some improvements to air quality, and the science tells us that means real health benefits.",
+    "analysis": "助动词do强调谓语动词deliver，表示'确实'。and连接两个并列分句。that引导的宾语从句作tells的直接宾语，其中means前省略了主语this/that。",
+    "translation": "这些区域确实对改善空气质量有所帮助，而且科学表明，这意味着切实的健康收益。",
+    "grammarPoints": [
+      "强调",
+      "并列结构",
+      "宾语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It was with these great revelations that a new kind of philosophy founded in reason was born.",
+    "analysis": "'It was+被强调部分+that+其他成分'强调句型，强调原因状语with these great revelations。过去分词短语founded in reason作后置定语修饰philosophy。",
+    "translation": "正是因为这些伟大的发现，一种基于理性的新哲学才得以诞生。",
+    "grammarPoints": [
+      "强调句型",
+      "分词作定语",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It is only the Queen who has preserved the monarchy's reputation with her rather ordinary granny style.",
+    "analysis": "'It is+被强调部分+who+其他成分'强调句型，强调主语the Queen。删除It is和who后，剩余部分结构和语意仍然完整。介词短语with her...style作方式状语。",
+    "translation": "只有女王以她相当普通的奶奶风格保住了王室的声誉。",
+    "grammarPoints": [
+      "强调句型",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "There are many different types of automatic door, with each relying on specific signals to tell them when to open.",
+    "analysis": "There be句型表示客观存在，主语为many different types。'with+名词+现在分词'构成独立主格结构作伴随状语。when to open为'疑问词+不定式'结构作tell的宾语补足语。",
+    "translation": "自动门有很多不同的类型，每种类型的自动门都依靠特定的信号来告诉它们何时打开。",
+    "grammarPoints": [
+      "There be句型",
+      "独立主格结构",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "There seems to be a predominance of short-term thinking at the expense of long-term investing.",
+    "analysis": "There be句型的变体，用seems to be作谓语。介词短语of short-term thinking作后置定语修饰predominance。介词短语at the expense of作方式状语。",
+    "translation": "以牺牲长期投资为代价的短期思维似乎占据了主导地位。",
+    "grammarPoints": [
+      "There be句型",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "As the marketplace adapts to the new requirements, and the technologies that support them, the scaling up of these technologies will eventually bring costs down, but in the short term, we will all have to pay the price of the necessary transition.",
+    "analysis": "本句包含并列结构、分隔结构和嵌套结构。As引导时间状语从句，其中and连接并列宾语。that引导定语从句嵌套在As从句中。but连接并列分句。介词短语of these technologies分隔主语the scaling up和谓语will bring。",
+    "translation": "随着市场对新需求和支持这些新需求的技术适应，这些技术规模的扩大最终会降低成本，但短期内，我们都将不得不为必要的过渡付出代价。",
+    "grammarPoints": [
+      "并列结构",
+      "分隔结构",
+      "嵌套结构",
+      "定语从句",
+      "时间状语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Nor was there any evidence that those who self-enhanced the most were doing so to make up for profound insecurities.",
+    "analysis": "Nor位于句首表全部否定，构成否定结构，引起倒装。that引导同位语从句解释说明evidence。who引导定语从句嵌套在同位语从句中，其位于主语those和谓语were doing之间造成主谓分隔。",
+    "translation": "也没有任何证据表明，那些自我美化最多的人是为了弥补内心强烈的不安全感而这样做。",
+    "grammarPoints": [
+      "否定结构",
+      "倒装",
+      "同位语从句",
+      "嵌套结构",
+      "分隔结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "When people place their trust in an individual or an institution, their brains release oxytocin, a hormone that produces pleasurable feelings and triggers the herding instinct that prompts humans to connect with one another.",
+    "analysis": "When引导时间状语从句。主句中a hormone作oxytocin的同位语。第一个that引导定语从句修饰a hormone，其中produces和triggers为并列谓语。第二个that引导定语从句修饰the herding instinct，嵌套在第一个定语从句中，构成嵌套结构。",
+    "translation": "当人们给予某个人或某机构信任时，他们的大脑就会释放催产素——一种令人产生愉悦之感并触发群居本能的激素，这种本能会促使人类彼此之间建立良好的关系。",
+    "grammarPoints": [
+      "嵌套结构",
+      "定语从句",
+      "同位语",
+      "时间状语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Even without knowing what was in the messages, the knowledge of who sent them and to whom was enormously revealing and still could be.",
+    "analysis": "介词短语without knowing...作让步状语，其中what引导宾语从句作knowing的宾语。主句主语the knowledge后of who...and to whom作后置定语，其中who和whom均引导宾语从句作介词of的宾语。",
+    "translation": "即使不知道信息的具体内容，但其发送者及接收者是谁这一信息在很大程度上透露了内情，且这种情况仍可能继续。",
+    "grammarPoints": [
+      "介词短语",
+      "宾语从句",
+      "并列结构",
+      "省略"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.",
+    "analysis": "the argument goes作插入语。主语A move back to self-sufficiency与谓语would boost之间被插入语隔开，造成主谓分隔。名词短语the farming industry, political sovereignty and the nation's health为并列宾语。",
+    "translation": "这种观点认为，恢复粮食自给将促进农业发展、加强政治主权，甚至提高国民健康水平。",
+    "grammarPoints": [
+      "插入语",
+      "分隔结构",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Researchers studied data that included measurements of lean muscle and abdominal fat from more than 4,000 middle-to-older-aged men and women and compared that data to reported changes in their fluid intelligence over a six-year period.",
+    "analysis": "that引导定语从句修饰data。介词短语of lean muscle and abdominal fat作后置定语修饰measurements。and连接两个并列谓语studied和compared。过去分词reported作前置定语修饰changes。",
+    "translation": "研究人员研究了包含4000多名中老年男性与女性的精瘦肌肉和腹部脂肪测量结果的数据，并将这些数据与所报告的受试者6年间的流体智力变化进行了比较。",
+    "grammarPoints": [
+      "定语从句",
+      "并列结构",
+      "分词作定语",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A different and not mutually exclusive prediction holds that the future will be a wasteland of a different sort, one characterized by purposelessness: Without jobs to give their lives meaning, people will simply become lazy and depressed.",
+    "analysis": "that引导宾语从句作holds的宾语。one作a wasteland的同位语，过去分词短语characterized by purposelessness作后置定语修饰one。冒号后内容解释说明。Without jobs...为独立主格结构作条件状语。",
+    "translation": "一种与之不同但并不相互排斥的预测认为，未来将是另一种荒原，一种以漫无目的为特征的荒原：由于没有工作赋予生活以意义，人们只会变得懒惰和沮丧。",
+    "grammarPoints": [
+      "宾语从句",
+      "同位语",
+      "分词作定语",
+      "独立主格结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A study last year by the National Center for Science Education, a non-profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B+ or higher.",
+    "analysis": "主语A study与谓语gave之间被多个修饰成分隔开，形成主谓分隔。介词短语last year和by...作后置定语。a non-profit group...作同位语。现在分词短语looking at...作后置定语，其中how引导宾语从句。主句为'主+谓+间宾+直宾'结构。",
+    "translation": "国家科学教育中心是一个由科学家和教师组成的非营利组织，该中心去年就全国的州公立学校借助科学课堂处理气候变化问题的方式进行了一项研究，结果给了美国仅有一半的州不低于B+的分数。",
+    "grammarPoints": [
+      "分隔结构",
+      "同位语",
+      "宾语从句",
+      "分词作定语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "But it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France.",
+    "analysis": "'with+名词+现在分词'构成独立主格结构作伴随状语。whether引导宾语从句作介词into的宾语。which引导非限定性定语从句补充说明whether从句的内容。in turn作插入语。",
+    "translation": "但是，它已经引起了重大争议，美国贸易代表开始调查该税法是否歧视美国公司，转而可能导致美国对法国实施贸易制裁。",
+    "grammarPoints": [
+      "独立主格结构",
+      "宾语从句",
+      "非限定性定语从句",
+      "插入语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "These unilateral measures differ in detail, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right.",
+    "analysis": "but连接两个并列分句。to tax...为不定式短语作目的状语。that引导定语从句修饰income and revenue，该从句中嵌套省略that的宾语从句they should have a right to tax。even if引导让步状语从句。",
+    "translation": "这些单边措施在细节方面各不相同，但它们的目的都是对跨国公司的净收入及总收入进行征税，这些国家认为自己应该有权对这些收入征收税款，尽管国际税收法则并未赋予他们该项权利。",
+    "grammarPoints": [
+      "并列结构",
+      "嵌套结构",
+      "定语从句",
+      "宾语从句",
+      "让步状语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Getting back into exercise after a break can be a challenge in the best of times, but with gyms and in-person exercise classes off-limits to many people these days, it can be tricky to know where to start.",
+    "analysis": "but连接两个并列分句。第一个分句中动名词短语Getting back into exercise作主语，介词短语after a break造成主谓分隔。第二个分句中'with+名词+形容词'构成独立主格结构作原因状语。it作形式主语，to know where to start为真正主语。",
+    "translation": "在最佳时期，运动中断后重新开始运动都可能是一种挑战，而现在很多人不能去健身房，也无法上面授健身课程，更是连从哪里开始都难以知晓。",
+    "grammarPoints": [
+      "分隔结构",
+      "独立主格结构",
+      "并列结构",
+      "不定式",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Artificial intelligence is typically depicted as something sinister.",
+    "analysis": "一般现在时的被动语态。介词短语as something sinister作主语补足语，补充说明主语Artificial intelligence。",
+    "translation": "人工智能通常被描绘为某种邪恶事物。",
+    "grammarPoints": [
+      "被动语态",
+      "主语补足语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Most archaeological sites have been located by means of careful searching.",
+    "analysis": "现在完成时的被动语态have been located。介词短语by means of careful searching作方式状语，引出动作的执行方式。",
+    "translation": "大多数考古遗址都是通过仔细探寻才被找到的。",
+    "grammarPoints": [
+      "被动语态",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The court did suggest that accepting favors in return for opening doors is 'distasteful' and 'nasty'.",
+    "analysis": "助动词did强调谓语动词suggest。that引导宾语从句作suggest的宾语。动名词短语accepting favors作宾语从句的主语。动名词短语opening doors作介词for的宾语。and连接两个并列表语distasteful和nasty。",
+    "translation": "最高法���的确指出，收受好处并因此为他人开'方便之门'的行为'令人不快'且'卑鄙龌龊'。",
+    "grammarPoints": [
+      "强调",
+      "宾语从句",
+      "动名词",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Eye contact triggered more activity associated with avoidance, according to the Finnish researcher Jari Hietanen and colleagues.",
+    "analysis": "过去分词短语associated with avoidance作后置定语修饰more activity。介词短语according to...作插入语，表示信息来源。according to后的名词短语作其宾语，其中Jari Hietanen and colleagues为同位语。",
+    "translation": "据芬兰研究人员贾里·希塔宁及其同事所言，目光接触会引发更多与回避有关的活动。",
+    "grammarPoints": [
+      "分词作定语",
+      "插入语",
+      "同位语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance.",
+    "analysis": "who引导定语从句修饰people。a personality dimension...作neuroticism的同位语，其中过去分词短语associated with...作后置定语。主句eye contact triggered more activity中，过去分词短语associated with avoidance作后置定语修饰activity。",
+    "translation": "在神经质（一种与自我意识和焦虑有关的人格维度）测试中得分高的人们中，目光接触会引发更多与回避有关的活动。",
+    "grammarPoints": [
+      "定语从句",
+      "同位语",
+      "分词作定语",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Deep breaths can help, as can speaking more slowly and deliberately.",
+    "analysis": "as引导比较状语从句，从句中省略了谓语动词help，且使用部分倒装，还原为'as speaking more slowly and deliberately can help'。动名词短语speaking...作从句主语。",
+    "translation": "深呼吸、放缓语速或从容不迫地讲话都会有所帮助。",
+    "grammarPoints": [
+      "比较状语从句",
+      "倒装",
+      "省略",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The sheer volume of available choice is enough to send shoppers into a state of information overload.",
+    "analysis": "形容词sheer用于强调被修饰名词volume。动词不定式短语to send...作结果状语。介词短语of available choice作后置定语，of information overload作后置定语。",
+    "translation": "选择如此之多足以使顾客陷入信息超负荷的状态。",
+    "grammarPoints": [
+      "强调",
+      "不定式",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Rather than portraying landscape, land artists used the physical substance of the land itself as their medium.",
+    "analysis": "Rather than引导对比结构，后接动名词短语portraying landscape。反身代词itself作同位语强调the land。介词短语as their medium作宾语补足语。",
+    "translation": "地景艺术家们并不是描绘风景，而是以大地本身的实物作为他们的创作素材。",
+    "grammarPoints": [
+      "动名词",
+      "同位语",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Just as important as being honest about yourself is being receptive to others.",
+    "analysis": "为强调表语Just as important as...，句子使用完全倒装：'表+系+主'结构。还原后为'Being receptive to others is just as important as being honest about yourself'。as...as构成同级比较结构。",
+    "translation": "与诚实说出个人信息同样重要的是，要善于容纳他人。",
+    "grammarPoints": [
+      "倒装",
+      "强调",
+      "比较结构",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Though the participants didn't expect a positive experience, after they went through with the experiment, 'not a single person reported having been embarrassed.'",
+    "analysis": "Though引导让步状语从句。after引导时间状语从句。主句中not a single短语强调否定含义。动名词短语having been embarrassed（完成被动式）作reported的宾语。",
+    "translation": "尽管实验参与者并没有期待会有一次积极体验，但当他们完成实验后，'没有一个人称自己感到尴尬'。",
+    "grammarPoints": [
+      "让步状语从句",
+      "时间状语从句",
+      "否定结构",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The reason, of course, is that costs have rocketed and ticket prices have stayed low.",
+    "analysis": "of course作插入语。当主语为reason时，表语从句须用that引导。and连接两个并列分句共同构成表语从句。",
+    "translation": "当然，原因是成本飞速上涨，而票价却一直低廉。",
+    "grammarPoints": [
+      "表语从句",
+      "插入语",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "This is where developing new habits comes in.",
+    "analysis": "where引导表语从句，在从句中作地点状语。动名词短语developing new habits作从句主语。短语动词come in意为'起作用，有意义'。",
+    "translation": "这就是培养新习惯的意义所在。",
+    "grammarPoints": [
+      "表语从句",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Now that you have developed a topic into a tentative thesis, you can assemble your notes and begin to flesh out whatever outline you have made.",
+    "analysis": "Now that引导原因状语从句。主句中and连接两个并列谓语assemble和begin。whatever引导宾语从句作flesh out的宾语，whatever在从句中作定语修饰outline。",
+    "translation": "既然你已经将话题展开形成了初步的论题，那么你就可以整合笔记并开始充实已拟好的任何提纲。",
+    "grammarPoints": [
+      "原因状语从句",
+      "并列结构",
+      "宾语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It is deeply uncomfortable—it's the emotional equivalent of wearing a jacket weighted with stones.",
+    "analysis": "破折号后内容解释说明前文。动名词短语wearing a jacket作介词of的宾语。过去分词短语weighted with stones作后置定语修饰jacket。",
+    "translation": "它让人感到非常不舒服——在情感上就如同身穿一件装有许多石头的夹克衫那般难受。",
+    "grammarPoints": [
+      "动名词",
+      "分词作定语",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "If you've explored the area before, keep an eye out for familiar sights—you may be surprised how quickly identifying a distinctive rock or tree can restore your bearings.",
+    "analysis": "If引导条件状语从句，主句为祈使句。破折号后为解释说明。how引导宾语从句作surprised的宾语，其中动名词短语identifying a distinctive rock or tree作从句主语。",
+    "translation": "如果你之前探索过这个区域，那么就要密切注意熟悉的景象——你也许会惊讶于识别出一块独特的岩石或一棵特别的树竟能如此迅速地帮你找回方向。",
+    "grammarPoints": [
+      "条件状语从句",
+      "祈使句",
+      "宾语从句",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "And third, growth was reflected in changes in the proportion of the relevant age group enrolled in institutions of higher education.",
+    "analysis": "过去分词短语enrolled in institutions of higher education作后置定语修饰age group。介词短语in the proportion of...作后置定语修饰changes。被动语态was reflected表示'被反映'。",
+    "translation": "第三，这一发展反映在相应年龄人群进入高等教育机构学习的比例变化上。",
+    "grammarPoints": [
+      "分词作定语",
+      "被动语态",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It's also a good idea to delay the conversation.",
+    "analysis": "It作形式主语，动词不定式短语to delay the conversation作真正的主语。'It is+名词+不定式'为常用句型。",
+    "translation": "推迟谈话也是一个好主意。",
+    "grammarPoints": [
+      "形式主语",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The student's knowing English well helps him in learning French.",
+    "analysis": "动名词的复合结构The student's knowing English well作主语，其中名词所有格The student's作动名词的逻辑主语。介词短语in learning French作方面状语。",
+    "translation": "这位学生精通英语，这对他学法语有帮助。",
+    "grammarPoints": [
+      "动名词复合结构",
+      "名词所有格"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The last thing you want is for them to leave.",
+    "analysis": "省略关系代词的定语从句you want修饰thing。动词不定式的复合结构for them to leave作表语，其中for引出不定式的逻辑主语them。",
+    "translation": "你最不希望发生的，就是他们离开你。",
+    "grammarPoints": [
+      "定语从句",
+      "不定式复合结构",
+      "省略"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "My worry is your relying too much on your parents.",
+    "analysis": "动名词的复合结构your relying...作表语，其中形容词性物主代词your作动名词的逻辑主语。副词短语too much作程度状语。",
+    "translation": "我担心的是你太依赖你的父母了。",
+    "grammarPoints": [
+      "动名词复合结构",
+      "表语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "These facts, however, have previously been thought unrelated.",
+    "analysis": "however作插入语表转折。现在完成时的被动语态have been thought。形容词unrelated作主语补足语，补充说明主语These facts。",
+    "translation": "然而，以前人们一直认为这些事实之间没有联系。",
+    "grammarPoints": [
+      "插入语",
+      "被动语态",
+      "主语补足语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "I would raise prices and make it into more of a legacy product.",
+    "analysis": "and连接两个并列谓语raise和make。it为形式宾语，介词短语into more of a legacy product作宾语补足语。",
+    "translation": "我会提高价格，并使之更多地成为一种遗产型产品。",
+    "grammarPoints": [
+      "并列结构",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The French tax is not just a unilateral move by one country in need of revenue.",
+    "analysis": "not just表部分否定。介词短语by one country作后置定语修饰move。介词短语in need of revenue作后置定语修饰country。",
+    "translation": "法国的数字服务税并不仅仅是一个需要税收的国家采取的单边行动。",
+    "grammarPoints": [
+      "否定结构",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The humiliations of his father's imprisonment and his labor in the blacking factory became his deepest secret.",
+    "analysis": "介词短语of his father's imprisonment and his labor...作后置定语修饰humiliations，其中and连接两个并列名词短语。in the blacking factory作后置定语修饰labor。系动词became后接名词短语作表语。",
+    "translation": "父亲入狱及自己在黑鞋油厂做工的经历所带来的羞辱成了他心底最深的秘密。",
+    "grammarPoints": [
+      "并列结构",
+      "介词短语",
+      "主系表结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "These upstart entrepreneurs cannot buy their prizes the prestige of the Nobels.",
+    "analysis": "主+谓+间宾+直宾结构（双宾语）。their prizes为间接宾语，the prestige为直接宾语。介词短语of the Nobels作后置定语修饰prestige。",
+    "translation": "这些企业新贵们不能为他们所设立的奖项买到诺贝尔奖那样的声望。",
+    "grammarPoints": [
+      "双宾语",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "All these activities can make it difficult for kids to develop the kind of sustained concentration.",
+    "analysis": "it为形式宾语，真正的宾语是动词不定式的复合结构for kids to develop...。形容词difficult作宾语补足语。介词短语of sustained concentration作后置定语修饰kind。",
+    "translation": "所有这些活动都会使孩子们难以养成持久注意力。",
+    "grammarPoints": [
+      "形式宾语",
+      "不定式复合结构",
+      "宾语补足语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "These networks of kinship and language make it easier to do business across borders.",
+    "analysis": "it为形式宾语，真正的宾语是不定式短语to do business across borders。形容词比较级easier作宾语补足语。介词短语of kinship and language作后置定语修饰networks。",
+    "translation": "这些血缘关系和语言的网络使跨境做生意变得更加容易。",
+    "grammarPoints": [
+      "形式宾语",
+      "不定式",
+      "比较级"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Each subject was then invited to look inside.",
+    "analysis": "被动语态was invited。动词不定式短语to look inside作主语补足语，补充说明主语Each subject。",
+    "translation": "接着邀请每个实验对象往里面看。",
+    "grammarPoints": [
+      "被动语态",
+      "主语补足语",
+      "不定式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "One company that's doing this is called Blendoor.",
+    "analysis": "that引导定语从句修饰company。被动语态is called后接名词Blendoor作主语补足语，补充说明主语。",
+    "translation": "一家名为Blendoor的公司正在这样做。",
+    "grammarPoints": [
+      "定语从句",
+      "主语补足语",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The boy has been made what he is.",
+    "analysis": "现在完成时的被动语态has been made。what引导的从句作主语补足语，补充说明主语The boy。what在从句中作表语。",
+    "translation": "这个男孩已经成了如今的样子。",
+    "grammarPoints": [
+      "主语补足语",
+      "名词性从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The move turned out to be foresighted.",
+    "analysis": "半助动词短语turned out to be表示'结果是，最后被证明是'。动词不定式to be foresighted作turned out的宾语。系动词turn out可用主动形式表示被动意义。",
+    "translation": "此举最后被证明是有先见之明的。",
+    "grammarPoints": [
+      "半助动词",
+      "不定式",
+      "主动形式表被动"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Renaissance ideas had spread throughout Europe well into the 17th century.",
+    "analysis": "过去完成时had spread。动词spread表'传播'时可用主动形式表示被动意义。介词短语throughout Europe作地点状语，well into the 17th century作时间状语。",
+    "translation": "到17世纪，文艺复兴的思想已经在整个欧洲广为传播。",
+    "grammarPoints": [
+      "主动形式表被动",
+      "过去完成时",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The real problem is that the parks have been chronically starved of funding.",
+    "analysis": "that引导表语从句。现在完成时的被动语态have been starved。副词chronically作时间状语修饰谓语。介词短语of funding作方面状语。",
+    "translation": "真正的问题是这些公园长期严重缺乏资金。",
+    "grammarPoints": [
+      "表语从句",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "But defining what it means to be a good parent is undoubtedly very tricky, particularly since children respond differently to the same style of parenting.",
+    "analysis": "动名词短语defining...作主语，其中what引导宾语从句作defining的宾语，该从句中it为形式主语，to be a good parent为真正主语。since引导原因状语从句。副词undoubtedly和particularly加强语气。",
+    "translation": "但是，要界定'做个好父母'的内涵无疑是非常难的，尤其是因为孩子们对同一种养育方式会有不同的反应。",
+    "grammarPoints": [
+      "动名词",
+      "宾语从句",
+      "形式主语",
+      "原因状语从句",
+      "嵌套结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.",
+    "analysis": "as引导原因状语从句。不定式短语to do their utmost作continue的宾语，不定式to keep...和(to) improve...为并列目的状语。括号内容and paying tuition作补充说明。",
+    "translation": "近年来，由于高校一直竭尽全力让学生留在学校（并支付学费）和提高高校的毕业率，这种鲜为人知的做法已经加速普及。",
+    "grammarPoints": [
+      "原因状语从句",
+      "不定式",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "He had such a pleasant, readable style that one might think that anyone could imitate it.",
+    "analysis": "such...that引导结果状语从句。第一个that为结果状语从句的引导词，第二个that引导宾语从句作think的宾语。情态动词might和could表示可能性推测。",
+    "translation": "他的作品风格欢快且通俗易懂，让人觉得谁都可以模仿。",
+    "grammarPoints": [
+      "结果状语从句",
+      "宾语从句",
+      "嵌套结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals.",
+    "analysis": "半助动词tend to表示'倾向于，往往会'。as if引导方式状语从句。even when引导让步状语从句，even起到加强语气的作用。",
+    "translation": "同样地，孩子们常常会将机器人当成仿佛是自己的同伴来对待，即使机器人只是展示出简单的社交信号。",
+    "grammarPoints": [
+      "方式状语从句",
+      "让步状语从句",
+      "半助动词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs.",
+    "analysis": "it is argued作插入语，分隔情态动词could和谓语动词become。现在分词短语attracting...and creating...作结果状语，其中包含并列结构。",
+    "translation": "有人认为，'文化之镇'奖可以成为一项年度活动，吸引资金并创造就业机会。",
+    "grammarPoints": [
+      "插入语",
+      "分隔结构",
+      "分词作状语",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "That said, there is a way in which grade forgiveness satisfies colleges' own needs as well.",
+    "analysis": "That said为独立成分（分词短语作插入语），意为'话虽如此'。in which引导定语从句修饰way，'介词in+关系代词which'结构中，in which相当于in the way。as well表示'也'。",
+    "translation": "话虽如此，'分数宽容'也以某种方式满足了高校自身的需要。",
+    "grammarPoints": [
+      "插入语",
+      "介词+关系代词",
+      "定语从句"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Now, rivals will be charging sales tax where they hadn't before.",
+    "analysis": "where引导地点状语从句。将来进行时will be charging。before为副词作时间状语，从句中省略了谓语charged sales tax。",
+    "translation": "现在，大型连锁店的竞争对手将在它们此前从未征收过销售税的地方征税。",
+    "grammarPoints": [
+      "地点状语从句",
+      "省略",
+      "将来进行时"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The court's ruling is a step forward in the struggle against both corruption and official favoritism.",
+    "analysis": "副词forward作后置定语修饰step。介词短语in the struggle...作后置定语修饰step。介词短语against...作后置定语修饰struggle。both...and连接并列宾语corruption和official favoritism。",
+    "translation": "最高法院的裁决是在同腐败和官方偏袒的斗争中向前迈出的一步。",
+    "grammarPoints": [
+      "副词作定语",
+      "介词短语",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century.",
+    "analysis": "very为形容词用于强调fact。that引导定语从句修饰ways of thinking。介词短语of thinking作后置定语修饰ways，during...作时间状语。",
+    "translation": "这一事实体现了在17世纪的大部分时间里席卷整个欧洲的新思维方式。",
+    "grammarPoints": [
+      "强调",
+      "定语从句",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Thinking too much can also harm our ability to form preferences.",
+    "analysis": "动名词短语Thinking too much作主语。动词不定式短语to form preferences作后置定语修饰ability。副词too much和also作状语。",
+    "translation": "思考太多也会损害我们形成偏好的能力。",
+    "grammarPoints": [
+      "动名词作主语",
+      "不定式作定语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Loneliness is known to impact on your mental health and contribute to a low mood.",
+    "analysis": "被动语态is known后接不定式短语to impact...and contribute...作主语补足语。and连接两个并列不定式短语。",
+    "translation": "众所周知，孤独会影响你的心理健康并导致情绪低落。",
+    "grammarPoints": [
+      "主语补足语",
+      "并列结构",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Employment protection laws make it costlier to fire an employee.",
+    "analysis": "it为形式宾语，真正的宾语是不定式短语to fire an employee。形容词比较级costlier作宾语补足语。",
+    "translation": "就业保护法使得解雇雇员的成本更高。",
+    "grammarPoints": [
+      "形式宾语",
+      "宾语补足语",
+      "比较级"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Scientific publishing has long been a licence to print money.",
+    "analysis": "现在完成时has been。名词短语a licence作表语。不定式短语to print money作后置定语修饰licence。副词long作时间状语。",
+    "translation": "长期以来，科学出版业一直是一本万利的行业。",
+    "grammarPoints": [
+      "现在完成时",
+      "不定式作定语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It's almost impossible to go through life without experiencing some kind of failure.",
+    "analysis": "It为形式主语，不定式短语to go through life...作真正主语。介词短语without experiencing...作伴随状语，其中动名词experiencing作without的宾语。",
+    "translation": "人的一生几乎不可能不经历某种失败。",
+    "grammarPoints": [
+      "形式主语",
+      "不定式",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "How people think is still far too complex to be understood, let alone reproduced.",
+    "analysis": "How引导主语从句作主句主语。'too...to...'结构表示'太……以至于不能……'。let alone表示'更不用说'，后接过去分词reproduced，省略了to be。",
+    "translation": "人类的思维方式仍然过于复杂，难以理解，更不用说被复制了。",
+    "grammarPoints": [
+      "主语从句",
+      "too...to结构",
+      "省略",
+      "被动语态"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Whatever image we present is magnified by social-media services like LinkedIn.",
+    "analysis": "Whatever引导主语从句，whatever在从句中作定语修饰image。被动语态is magnified。介词短语by...引出动作执行者。like引出举例。",
+    "translation": "此外，无论我们展示的是何种形象，它都会被领英这样的社交媒体服务商夸大。",
+    "grammarPoints": [
+      "主语从句",
+      "被动语态",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+    "analysis": "it为形式宾语，真正的宾语是不定式的复合结构for states to collect...。形容词比较级more difficult作宾语补足语。介词短语on certain online purchases作后置定语修饰tax。",
+    "translation": "这些裁决加大了各州对某些网购商品征收销售税的难度。",
+    "grammarPoints": [
+      "形式宾语",
+      "不定式复合结构",
+      "比较级"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A higher minimum wage will force businesses to employ fewer people.",
+    "analysis": "一般将来时will force。动词不定式短语to employ fewer people作宾语补足语。形容词比较级fewer修饰people。",
+    "translation": "较高的最低工资将迫使企业雇用更少的员工。",
+    "grammarPoints": [
+      "一般将来时",
+      "宾语补足语",
+      "比较级"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Millennials were told that if you got a decent degree, you would be set up for life.",
+    "analysis": "被动语态were told。that引导宾语从句作told的保留宾语。宾语从句中嵌套if引导的条件状语从句，构成嵌套结构。主句过去时与从句中would be构成时态呼应。",
+    "translation": "千禧一代曾被告知，如果你获得了不错的学位，那么你就不用为生活发愁了。",
+    "grammarPoints": [
+      "被动语态",
+      "宾语从句",
+      "条件状语从句",
+      "嵌套结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Join the Club is filled with too much irrelevant detail.",
+    "analysis": "被动语态is filled with。介词短语with too much irrelevant detail作状语。书名Join the Club作主语。",
+    "translation": "《加入俱乐部》一书中充斥着太多无关的细节。",
+    "grammarPoints": [
+      "被动语态",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A shift in the view of fire has taken place.",
+    "analysis": "不及物动词短语take place可用主动形式表示被动意义，意为'发生'。介词短语in the view of fire作后置定语修饰shift。现在完成时has taken place。",
+    "translation": "人们对火灾的看法已经发生改变。",
+    "grammarPoints": [
+      "主动形式表被动",
+      "介词短语",
+      "现在完成时"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Different kinds of reading inform each other.",
+    "analysis": "及物动词inform后接相互代词each other作宾语，表相互意义。介词短语of reading作后置定语修饰kinds。",
+    "translation": "不同的阅读方式互相影响。",
+    "grammarPoints": [
+      "相互代词",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Fast-food chains should also stop offering 'inducements' to lure young customers.",
+    "analysis": "动名词短语offering 'inducements'作stop的宾语。不定式短语to lure young customers作目的状语。",
+    "translation": "快餐连锁店还应停止提供'诱饵'来引诱年轻顾客。",
+    "grammarPoints": [
+      "动名词作宾语",
+      "不定式作状语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "A Common Drug Review recommends to provincial lists which new drugs should be included.",
+    "analysis": "which引导宾语从句作recommends的直接宾语，which在从句中作定语修饰new drugs。介词短语to provincial lists作状语表对象。",
+    "translation": "通用药物审查向各省清单推荐应该纳入哪些新药。",
+    "grammarPoints": [
+      "宾语从句",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The better informed they are about the way the state works, the better their reporting will be.",
+    "analysis": "'the+比较级..., the+比较级...'结构表示'越……越……'。省略关系词的定语从句the state works修饰the way。前者相当于条件状语从句，后者为主句。",
+    "translation": "他们对国家运作的方式越了解，他们的报道就会越优秀。",
+    "grammarPoints": [
+      "比较结构",
+      "定语从句",
+      "省略"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "These are disciplines that are going out of style: 22% of American college graduates now major in business compared with only 2% in history and 4% in English.",
+    "analysis": "that引导定语从句修饰disciplines。冒号后内容解释说明前文。过去分词短语compared with...作比较状语，其中存在省略。",
+    "translation": "这些学科即将过时：如今，22%的美国大学毕业生主修商学，与之相比，只有2%主修历史，4%主修英语。",
+    "grammarPoints": [
+      "定语从句",
+      "分词作状语",
+      "省略"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Integrity had collapsed because of a collective acceptance that the only 'sorting mechanism' in society should be profit and the market.",
+    "analysis": "过去完成时had collapsed。because of引出原因状语。that引导同位语从句解释说明acceptance的具体内容。介词短语in society作后置定语修饰mechanism。",
+    "translation": "诚实正直已经沦丧了，因为大家普遍认为社会中唯一的'分选机制'应该是利益和市场。",
+    "grammarPoints": [
+      "同位语从句",
+      "过去完成时",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The parliament also agreed to ban websites that 'incite excessive thinness' by promoting extreme dieting.",
+    "analysis": "不定式短语to ban websites作agreed的宾语。that引导定语从句修饰websites。介词短语by promoting extreme dieting作方式状语，其中动名词promoting作by的宾语。",
+    "translation": "议会还同意取缔那些通过宣传极端节食来'煽动过度瘦身'的网站。",
+    "grammarPoints": [
+      "定语从句",
+      "不定式",
+      "动名词"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "When Liam McGee departed as president of Bank of America in August, his explanation was surprisingly straight up.",
+    "analysis": "When引导时间状语从句，介词短语as president...作方式状语。主句为'主+系+表'结构，副词surprisingly修饰表语straight up。",
+    "translation": "利亚姆·麦吉在8月辞去美国银行总裁的职务时，他的解释出人意料地直白。",
+    "grammarPoints": [
+      "时间状语从句",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Although the participants didn't expect a positive experience, after they went through with the experiment, 'not a single person reported having been embarrassed.'",
+    "analysis": "Although引导让步状语从句。after引导时间状语从句。主句中not a single短语强调否定含义。动名词短语的完成被动式having been embarrassed作reported的宾语。",
+    "translation": "尽管实验参与者并没有期待会有一次积极体验，但当他们完成实验后，'没有一个人称自己感到尴尬'。",
+    "grammarPoints": [
+      "让步状语从句",
+      "时间状语从句",
+      "否定结构",
+      "动名词完成被动式"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "And today, even writers who are fairly well-known often have to do other work to supplement their writing income.",
+    "analysis": "who引导定语从句修饰writers。半助动词have to表示'不得不'。不定式短语to supplement their writing income作目的状语。even表示强调。",
+    "translation": "如今，即使是相当著名的作家，通常也不得不从事其他工作来补充他们的写作收入。",
+    "grammarPoints": [
+      "定语从句",
+      "半助动词",
+      "不定式作状语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The experiment showed that elephants may well use smell to identify patches of trees that are good to eat, and secondly to assess the quality of the trees within each patch.",
+    "analysis": "that引导宾语从句作showed的宾语。宾语从句中不定式to identify作目的状语，that引导定语从句修饰patches of trees。and连接并列目的状语to identify和to assess。may well表示'很可能'。",
+    "translation": "实验表明，大象很可能利用嗅觉来识别可食用的树丛，其次评估每一片树丛中树木的质量。",
+    "grammarPoints": [
+      "宾语从句",
+      "定语从句",
+      "不定式",
+      "并列结构"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.",
+    "analysis": "as引导非限定性定语从句补充说明整个主句，as在从句中充当points out的宾语。介词短语by 90%作程度状语，between...and...作时间状语。",
+    "translation": "经济学家丹尼尔·西奇尔在一篇研究论文中指出，从18世纪末期到20世纪中期，钉子的价格下跌了90%。",
+    "grammarPoints": [
+      "非限定性定语从句",
+      "as引导定语从句",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "It takes about three weeks to a month to notice any significant changes in your weight due to altering your training program.",
+    "analysis": "It作形式主语，不定式短语to notice...作真正主语。介词短语due to altering...作原因状语，其中动名词altering作to的宾语。about three weeks to a month作时间状语。",
+    "translation": "由于改变训练计划而引起的显著的体重变化需要大约三周到一个月的时间才能被注意到。",
+    "grammarPoints": [
+      "形式主语",
+      "不定式",
+      "动名词",
+      "介词短语"
+    ]
+  },
+  {
+    "type": "sentence",
+    "sentence": "Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt can compensate for an emotional deficiency.",
+    "analysis": "a psychology professor...作Tina Malti的同位语。that引导宾语从句作suggests的宾语。介词短语by Tina Malti作后置定语修饰Work。介词短语at the University of Toronto作后置定语修饰professor。",
+    "translation": "多伦多大学心理学教授蒂娜·马尔蒂的研究表明，内疚感可以弥补某种情感缺失。",
+    "grammarPoints": [
+      "同位语",
+      "宾语从句",
+      "介词短语"
+    ]
+  }
+]
